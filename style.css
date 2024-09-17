@@ -9,3 +9,8 @@ p{
 h1{
     font-style: initial;
 }
+
+.roxo{
+    color: rgb(102, 39, 161);
+    font-size: small;
+}
